@@ -5,10 +5,10 @@
 </picture>
 
 <p>
-  <a href="https://industrieservice-sh.de/"><img alt="industrieservice-sh.de" src="https://img.shields.io/badge/Web-industrieservice--sh.de-ecb030?style=flat-square"></a>
-  <img alt="Flensburg, Schleswig-Holstein" src="https://img.shields.io/badge/Standort-Flensburg-475775?style=flat-square">
-  <img alt="Deutsche Rechenzentren, DSGVO-konform" src="https://img.shields.io/badge/Daten-deutsche%20Rechenzentren-475775?style=flat-square">
-  <a href="https://industrieservice-sh.de/kontakt/"><img alt="Kontakt" src="https://img.shields.io/badge/Erstgespräch-kostenlos-475775?style=flat-square"></a>
+  <a href="https://industrieservice-sh.de/"><img alt="industrieservice-sh.de" src="https://img.shields.io/badge/Web-industrieservice--sh.de-ecb030?style=flat-square&labelColor=475775"></a>
+  <img alt="Flensburg, Schleswig-Holstein" src="https://img.shields.io/badge/Standort-Flensburg-475775?style=flat-square&labelColor=475775">
+  <img alt="Deutsche Rechenzentren, DSGVO-konform" src="https://img.shields.io/badge/Daten-deutsche%20Rechenzentren-475775?style=flat-square&labelColor=475775">
+  <a href="https://industrieservice-sh.de/kontakt/"><img alt="Kontakt" src="https://img.shields.io/badge/Erstgespräch-kostenlos-475775?style=flat-square&labelColor=475775"></a>
 </p>
 
 ## Ein Unternehmen, zwei Welten
@@ -83,9 +83,9 @@ Alle Artikel: [industrieservice-sh.de/wissen](https://industrieservice-sh.de/wis
 
 ## Kontakt
 
-Industrieservice SH GmbH
-Philipp-Reis-Straße 5, 24941 Flensburg
-Telefon [0461 700160](tel:+49461700160)
+**Industrieservice SH GmbH**  
+Philipp-Reis-Straße 5, 24941 Flensburg  
+Telefon [0461 700160](tel:+49461700160)  
 [info@industrieservice-sh.de](mailto:info@industrieservice-sh.de)
 
 [Website](https://industrieservice-sh.de/) ·
